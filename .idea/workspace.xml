@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf6c1485-9b96-4d83-a2f1-295e4e3a9d08" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="disabledProfiles">
+      <list>
+        <option value="dev" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gZV8bhC7zCfHh25Hrlflt4YtRY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FilmApplication">
+    <configuration name="GunsCodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stylefeng.guns.generator.action.GunsCodeGenerator" />
+      <module name="guns-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stylefeng.guns.generator.action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MD5Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stylefeng.guns.core.util.MD5Util" />
+      <module name="guns-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stylefeng.guns.core.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlipayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="guns-alipay" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.stylefeng.guns.rest.AlipayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CinemaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="guns-cinema" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.stylefeng.guns.rest.CinemaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="guns-film" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.stylefeng.guns.rest.FilmApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="guns-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.stylefeng.guns.rest.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GunsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="guns-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.stylefeng.guns.GunsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GunsRestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="guns-rest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.stylefeng.guns.rest.GunsRestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="guns-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.stylefeng.guns.rest.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="guns-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.stylefeng.guns.rest.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MD5Util" />
+        <item itemvalue="Application.GunsCodeGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf6c1485-9b96-4d83-a2f1-295e4e3a9d08" name="Default Changelist" comment="" />
+      <created>1598321942889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598321942889</updated>
+      <workItem from="1598321948607" duration="2485000" />
+      <workItem from="1598403306529" duration="4050000" />
+      <workItem from="1598421080364" duration="3129000" />
+      <workItem from="1599448012218" duration="3409000" />
+      <workItem from="1599466519582" duration="1796000" />
+      <workItem from="1599526635875" duration="80000" />
+      <workItem from="1599556618483" duration="1288000" />
+      <workItem from="1599705070530" duration="765000" />
+      <workItem from="1599791614975" duration="116000" />
+      <workItem from="1599793415202" duration="4713000" />
+      <workItem from="1600045694659" duration="11098000" />
+      <workItem from="1600131764088" duration="2119000" />
+      <workItem from="1600139144138" duration="5562000" />
+      <workItem from="1600217942759" duration="369000" />
+      <workItem from="1600218348888" duration="17181000" />
+      <workItem from="1600304425230" duration="3799000" />
+      <workItem from="1600391017450" duration="7278000" />
+      <workItem from="1600482932144" duration="2159000" />
+      <workItem from="1600512551356" duration="22000" />
+      <workItem from="1600652868517" duration="1714000" />
+      <workItem from="1600762307174" duration="1285000" />
+      <workItem from="1600828945826" duration="5494000" />
+      <workItem from="1600912743352" duration="5295000" />
+      <workItem from="1600994938651" duration="707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="261" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600072686286">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="521" y="261" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1600072686286" />
+    <state x="609" y="163" key="#xdebugger.evaluate" timestamp="1600241977181">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="609" y="163" key="#xdebugger.evaluate/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1600241977181" />
+    <state width="456" height="466" key="DebuggerActiveHint" timestamp="1600241329468">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="456" height="466" key="DebuggerActiveHint/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1600241329468" />
+    <state x="634" y="216" key="FileChooserDialogImpl" timestamp="1600512572030">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="634" y="216" key="FileChooserDialogImpl/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1600483075854" />
+    <state x="634" y="216" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1600512572030" />
+    <state width="1877" height="408" key="GridCell.Tab.0.bottom" timestamp="1600942000011">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1663" height="353" key="GridCell.Tab.0.bottom/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1600855245547" />
+    <state width="1877" height="408" key="GridCell.Tab.0.bottom/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1600942000011" />
+    <state width="1663" height="278" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1599565021435" />
+    <state width="1877" height="408" key="GridCell.Tab.0.center" timestamp="1600942000011">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1663" height="353" key="GridCell.Tab.0.center/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1600855245545" />
+    <state width="1877" height="408" key="GridCell.Tab.0.center/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1600942000011" />
+    <state width="1663" height="278" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1599565021435" />
+    <state width="1877" height="408" key="GridCell.Tab.0.left" timestamp="1600942000011">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1663" height="353" key="GridCell.Tab.0.left/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1600855245543" />
+    <state width="1877" height="408" key="GridCell.Tab.0.left/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1600942000011" />
+    <state width="1663" height="278" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1599565021435" />
+    <state width="1877" height="408" key="GridCell.Tab.0.right" timestamp="1600942000011">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1663" height="353" key="GridCell.Tab.0.right/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1600855245546" />
+    <state width="1877" height="408" key="GridCell.Tab.0.right/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1600942000011" />
+    <state width="1663" height="278" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1599565021435" />
+    <state width="1472" height="161" key="GridCell.Tab.1.bottom" timestamp="1600249614491">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1472" height="161" key="GridCell.Tab.1.bottom/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1600249614491" />
+    <state width="1665" height="166" key="GridCell.Tab.1.bottom/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1599801986909" />
+    <state width="1387" height="366" key="GridCell.Tab.1.bottom/0.0.1707.920@0.0.1707.920" timestamp="1598409643445" />
+    <state width="1472" height="161" key="GridCell.Tab.1.center" timestamp="1600249614490">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1472" height="161" key="GridCell.Tab.1.center/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1600249614490" />
+    <state width="1665" height="166" key="GridCell.Tab.1.center/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1599801986909" />
+    <state width="1387" height="366" key="GridCell.Tab.1.center/0.0.1707.920@0.0.1707.920" timestamp="1598409643445" />
+    <state width="1472" height="161" key="GridCell.Tab.1.left" timestamp="1600249614490">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1472" height="161" key="GridCell.Tab.1.left/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1600249614490" />
+    <state width="1665" height="166" key="GridCell.Tab.1.left/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1599801986908" />
+    <state width="1387" height="366" key="GridCell.Tab.1.left/0.0.1707.920@0.0.1707.920" timestamp="1598409643445" />
+    <state width="1472" height="161" key="GridCell.Tab.1.right" timestamp="1600249614490">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1472" height="161" key="GridCell.Tab.1.right/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1600249614490" />
+    <state width="1665" height="166" key="GridCell.Tab.1.right/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1599801986909" />
+    <state width="1387" height="366" key="GridCell.Tab.1.right/0.0.1707.920@0.0.1707.920" timestamp="1598409643445" />
+    <state width="1472" height="224" key="GridCell.Tab.2.bottom" timestamp="1600249614479">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1472" height="224" key="GridCell.Tab.2.bottom/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1600249614479" />
+    <state width="1665" height="166" key="GridCell.Tab.2.bottom/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1599801986909" />
+    <state width="1472" height="224" key="GridCell.Tab.2.center" timestamp="1600249614479">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1472" height="224" key="GridCell.Tab.2.center/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1600249614479" />
+    <state width="1665" height="166" key="GridCell.Tab.2.center/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1599801986909" />
+    <state width="1472" height="224" key="GridCell.Tab.2.left" timestamp="1600249614479">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1472" height="224" key="GridCell.Tab.2.left/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1600249614479" />
+    <state width="1665" height="166" key="GridCell.Tab.2.left/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1599801986909" />
+    <state width="1472" height="224" key="GridCell.Tab.2.right" timestamp="1600249614479">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1472" height="224" key="GridCell.Tab.2.right/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1600249614479" />
+    <state width="1665" height="166" key="GridCell.Tab.2.right/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1599801986909" />
+    <state x="3292" y="240" key="RollbackChangesDialog" timestamp="1600934359154">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3292" y="240" key="RollbackChangesDialog/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1600934359154" />
+    <state x="3181" y="217" width="798" height="606" key="find.popup" timestamp="1600935982615">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="192" width="709" height="536" key="find.popup/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1600832137178" />
+    <state x="3181" y="217" width="798" height="606" key="find.popup/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1600935982615" />
+    <state x="552" y="192" width="725" height="536" key="find.popup/0.0.1707.920@0.0.1707.920" timestamp="1600313283448" />
+    <state x="555" y="248" key="git4idea.merge.GitPullDialog" timestamp="1600237198626">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="555" y="248" key="git4idea.merge.GitPullDialog/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1600237198626" />
+    <state x="241" y="121" key="new project wizard" timestamp="1599795361558">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="241" y="121" key="new project wizard/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1599795361558" />
+    <state x="3176" y="240" key="run.anything.popup" timestamp="1600932747549">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3176" y="240" key="run.anything.popup/0.0.1707.920/2560.0.1920.1040@2560.0.1920.1040" timestamp="1600932747549" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/user/UserController.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/converter/WithSignMessageConverter.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/util/MD5Util.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/guns-core/src/main/java/com/stylefeng/guns/core/util/MD5Util.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/user/UserController.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/guns-user/src/main/java/com/stylefeng/guns/rest/modular/user/UserServiceImpl.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/controller/AuthController.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/guns-user/src/main/java/com/stylefeng/guns/rest/modular/user/UserServiceImpl.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/filter/AuthFilter.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/guns-gateway/src/main/java/com/stylefeng/guns/rest/modular/auth/filter/AuthFilter.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/guns_parent$GatewayApplication.ic" NAME="GatewayApplication Coverage Results" MODIFIED="1600140509121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
